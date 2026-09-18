@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/CloudWithVarJosh/app1-frontend-config.git
+    repoURL: https://github.com/CarlosMBTeixeira/argocd-app1-frontend-config.git
     targetRevision: HEAD
     path: frontend
   destination:
